@@ -35,7 +35,7 @@ const App = () => {
      <Route path='/PlaceOrder' element={<PlaceOrder/>}/>
      <Route path='/product/:productId' element={<Product/>}/>
      <Route path='/Contact' element={<Contact/>}/>
-     <Route path='/Home' element={<Home/>}/>
+     
       
 
      </Routes>
